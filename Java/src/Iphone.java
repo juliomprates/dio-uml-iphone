@@ -1,6 +1,6 @@
+import interfaces.ReprodutorMusical;
 import interfaces.AparelhoTelefonico;
 import interfaces.NavegadorInternet;
-import interfaces.ReprodutorMusical;
 
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
 
@@ -17,7 +17,6 @@ public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
 
     @Override
     public void iniciarCorreioDeVoz() {
-        System.out.println("Sua chamada foi encaminhada para a Caixa Postal");
         System.out.println("Deixe sua mensagem");
     }
 
