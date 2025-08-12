@@ -1,12 +1,12 @@
 # Desafio de Diagramação UML da DIO
 
-Esse projeto consiste na simulação das funcionalidades de um iPhone, com base em algumas especificações pré-definidas:
+Esse projeto consiste em uma simulação básica das funcionalidades de um iPhone, com base em algumas especificações pré-definidas:
 
 Um iPhone possui as seguintes funcionalidades:
 
-- Reprodutor Musical;
-- Aparelho Telefônico;
-- Navegador de Internet.
+- Reproduzir música;
+- Ligações telefônicas;
+- Navegador de internet.
 
 ---
 
